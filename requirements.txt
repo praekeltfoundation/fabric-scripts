@@ -1,0 +1,2 @@
+Fabric==1.14.0
+tabulate==0.8.2
